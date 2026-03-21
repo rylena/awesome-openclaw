@@ -350,6 +350,7 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | 830+ | 177 production-ready AI agent templates across 24 categories. Copy-paste SOUL.md files for PM, Writer, SEO, DevOps, and more. |
 | [awesome-openclaw-skills](https://github.com//awesome-openclaw-skills) | - | Community curated skills collection |
 | [openclaw-recipes](https://github.com/community/openclaw-recipes) | - | Common automation recipes |
 | [claw-templates](https://github.com/templates/claw-templates) | - | Starter templates for OpenClaw projects |
