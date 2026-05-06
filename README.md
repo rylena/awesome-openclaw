@@ -119,6 +119,12 @@ Access the web dashboard at `http://localhost:18789/` to chat and manage your ag
 | Research | Web browsing, PDF summarization |
 | Entertainment | Spotify, media control |
 
+### Notable Social Skills
+
+| Skill | Description |
+|-------|-------------|
+| [tweetclaw](https://clawhub.ai/xquik/tweetclaw) | Safety-first X/Twitter automation for OpenClaw with account status, trends, search, drafts, posting workflows, and explicit write confirmations |
+
 ### Installing Skills
 
 ```bash
