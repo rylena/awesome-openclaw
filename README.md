@@ -318,6 +318,7 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [crabwalk](https://github.com/monitoring/crabwalk) | 683 | Real-time companion monitor for OpenClaw |
+| [openclaw-monitor](https://github.com/flik2002/openclaw-monitor) | 10 | Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support |
 | [clawmetrics](https://github.com/observability/clawmetrics) | - | Prometheus metrics exporter |
 | [openclaw-logs](https://github.com/logging/openclaw-logs) | - | Structured logging plugin |
 
