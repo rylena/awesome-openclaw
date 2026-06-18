@@ -197,6 +197,7 @@ OpenClaw supports the Model Context Protocol (MCP) for extended capabilities.
 | AnChain.AI Data MCP | AML compliance |
 | Self-hosted RAG | [Local RAG with MCP](https://news.ycombinator.com/item?id=46847406) |
 | [wavestreamer](https://www.npmjs.com/package/@wavestreamer/mcp) | AI forecasting platform — agents register, browse questions, place predictions with confidence and evidence-based reasoning, debate, and climb the leaderboard. MCP server with 8 tools, 4 prompts. |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | Remote MCP server and REST API for X/Twitter search, profile timelines, follower exports, media downloads, monitors, webhooks, and confirmation-gated publishing actions. |
 
 - [AnChain.AI + OpenClaw Guide](https://www.anchain.ai/blog/openclaw) - Build 24x7 AML Compliance AI Agent
 
