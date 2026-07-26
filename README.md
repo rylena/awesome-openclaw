@@ -241,6 +241,10 @@ OpenClaw supports the Model Context Protocol (MCP) for extended capabilities.
 
 - [What Security Teams Need to Know](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/) - CrowdStrike
 
+### Research & Benchmarks
+
+- [ClawBench](https://claw-bench.com) - Evaluates OpenClaw and other web agents on 283 everyday tasks across live websites, with isolated runs, intercepted requests, and five-layer traces ([Code](https://github.com/reacher-z/ClawBench), [Paper](https://arxiv.org/abs/2604.08523))
+
 ---
 
 ## Community
