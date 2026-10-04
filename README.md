@@ -487,6 +487,7 @@ This list is released into the public domain under CC0 1.0.
 | [Custom Morning Brief](usecases/custom-morning-brief.md) | Get a fully customized daily briefing — news, tasks, content drafts, and AI-recommended actions — texted to you every morning. |
 | [Second Brain](usecases/second-brain.md) | Text anything to your bot to remember it, then search through all your memories in a custom Next.js dashboard. |
 | [Event Guest Confirmation](usecases/event-guest-confirmation.md) | Call a list of event guests one-by-one to confirm attendance, collect notes, and compile a summary — fully automated via AI voice calls. |
+| [AI Group Call](https://aigroupcall.app) | Live voice call with up to eight AI agents around one goal — they debate, brainstorm and hand you a summary and action items. |
 
 ## Research & Learning
 
